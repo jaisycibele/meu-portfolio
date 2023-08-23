@@ -1,0 +1,28 @@
+.big_card_container {
+    border: solid white 0.1vw;
+    width: 400px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.big_card_container >h2 {
+    text-align: center;
+    color: white;
+}
+
+.big_card_photo {
+    justify-content: center;
+    display: flex;
+    
+}
+
+.big_card_photo >img {
+    border-radius: 1000px;
+}
+
+.big_card_description {
+    margin-top: 2vw;
+    text-align: center;
+}

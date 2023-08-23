@@ -1,0 +1,12 @@
+.menu_title_container {
+    color: white;
+
+}
+
+.menu_title_container> h1{
+    display: flexbox;
+    text-align: center;
+    font-size: 10vw;
+
+}
+
