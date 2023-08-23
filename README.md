@@ -1,5 +1,5 @@
-# meu-portifolio
-Portifolio desenvolvido utilizando o framework Angular.
+# meu-portfolio
+Portfolio desenvolvido utilizando o framework Angular.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
